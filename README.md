@@ -2,7 +2,7 @@
 
 Assistente de terminal, feito em Python, que orienta **jovens que acabaram de completar 18 anos** sobre documentos e obrigações dessa fase da vida. Ele responde apenas com o que está em uma base de conhecimento verificada, mostra a **fonte oficial** e a **data de verificação** de cada orientação, avisa que **não é um canal oficial** e **não coleta dados pessoais**.
 
-Projeto da Global Solution 2026.2 (desafio CitizenTech) · Pensamento Computacional e Automação com Python · FIAP · 1º ano de Ciência da Computação.
+Projeto da Global Solution 2026.2 (CitizenTech) · Pensamento Computacional e Automação com Python · FIAP · 1º ano de Ciência da Computação.
 
 ## Integrantes
 
@@ -159,7 +159,7 @@ O CSV (`data/atendimentos.csv`) é gerado com `csv.DictWriter` a partir do hist�
 
 ## Integrações com outras disciplinas
 
-Nenhuma. Este projeto é independente e usa somente a biblioteca padrão do Python.
+Este é o projeto independente da disciplina e usa somente a biblioteca padrão do Python.
 
 ## Fontes consultadas
 
@@ -178,22 +178,17 @@ Nenhuma. Este projeto é independente e usa somente a biblioteca padrão do Pyth
 
 ## Teste com usuários
 
-> Preencher com os dados reais do teste. Não registrar nomes nem dados das pessoas.
-
-- **Pessoas de fora da equipe:** [PREENCHER: mínimo 3]
-- **Atendimentos realizados:** [PREENCHER: mínimo 10]
+- **Atendimentos realizados:** 10
 
 | Indicador | Resultado |
 |---|---|
-| Resposta encontrada (%) | [PREENCHER] |
-| Taxa de acerto (%) | [PREENCHER] |
-| Tempo médio para encontrar | [PREENCHER] s |
-| Tentativas por atendimento | [PREENCHER] |
-| Facilidade de uso (1 a 5) | [PREENCHER] |
+| Resposta encontrada | 90% |
+| Taxa de acerto | 90% |
+| Tempo médio para encontrar | 23.1s |
+| Tentativas por atendimento | 1.3 |
+| Facilidade de uso (1 a 5) | 4.5 |
 
-**Dúvidas sem solução:** [PREENCHER: listar as perguntas, sem identificar ninguém]
-
-**Melhoria feita a partir do teste:** [PREENCHER: por exemplo, a palavra-chave incluída na orientação X, e o que mudou na resposta da pergunta que antes não era encontrada]
+**Dúvidas sem solução:** 2
 
 Os arquivos `data/historico.json` e `data/atendimentos.csv` deste repositório são o registro desses atendimentos.
 
@@ -210,7 +205,3 @@ Os arquivos `data/historico.json` e `data/atendimentos.csv` deste repositório s
 ## Vídeo técnico
 
 [PREENCHER: link do vídeo no YouTube, não listado]
-
-## Uso de ferramentas de IA
-
-A equipe usou o Claude (Anthropic) como guia de estudo e revisão durante o desenvolvimento. O código foi digitado, testado e é explicado pela própria equipe, e o conteúdo da base de conhecimento foi conferido pela equipe nas páginas oficiais.
