@@ -1,0 +1,14 @@
+﻿data,origem,pergunta,orientacao_id,encontrou,ajudou,tentativas,tempo_segundos,facilidade
+2026-11-16 16:13:54,pergunta,"Olá, acabei de fazer 18 anos e quero votar na próxima eleição, como faço?",7,True,True,1,43.9,5
+2026-11-16 16:14:59,pergunta,Quero saber como tirar passaporte pra viajar pro exterior,4,True,True,1,22.2,5
+2026-11-16 16:15:13,categoria,Acessar a Carteira de Trabalho Digital (CTPS),8,True,True,1,10.6,5
+2026-11-16 16:15:49,pergunta,Quero tirar minha CNH,9,True,True,1,20.7,5
+2026-11-16 16:16:30,categoria,Aumentar o nível da conta gov.br,2,True,True,1,12.4,4
+2026-11-16 16:17:18,pergunta,Tirar novo rg,3,True,True,2,39.2,4
+2026-11-16 16:17:38,pergunta,Como abrir minha primeira conta no banco,10,True,True,1,17.1,4
+2026-11-16 16:18:54,pergunta,Perdi o prazo do alistamento militar,6,True,True,2,31.7,3
+2026-11-16 16:19:22,pergunta,2,,False,False,2,11.3,5
+2026-11-16 16:19:42,pergunta,Quero aumentar o nível da minha conta gov,2,True,True,1,10.4,5
+2026-11-16 17:18:07,pergunta,quero emitir cin,3,True,True,1,15.0,5
+2026-11-16 17:18:19,pergunta,receita de bolo,,False,False,1,8.4,5
+2026-11-16 17:19:16,categoria,Acessar a Carteira de Trabalho Digital (CTPS),8,True,False,1,15.5,5

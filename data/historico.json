@@ -1,0 +1,145 @@
+[
+    {
+        "data": "2026-11-16 16:13:54",
+        "origem": "pergunta",
+        "pergunta": "Olá, acabei de fazer 18 anos e quero votar na próxima eleição, como faço?",
+        "orientacao_id": 7,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 43.9,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 16:14:59",
+        "origem": "pergunta",
+        "pergunta": "Quero saber como tirar passaporte pra viajar pro exterior",
+        "orientacao_id": 4,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 22.2,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 16:15:13",
+        "origem": "categoria",
+        "pergunta": "Acessar a Carteira de Trabalho Digital (CTPS)",
+        "orientacao_id": 8,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 10.6,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 16:15:49",
+        "origem": "pergunta",
+        "pergunta": "Quero tirar minha CNH",
+        "orientacao_id": 9,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 20.7,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 16:16:30",
+        "origem": "categoria",
+        "pergunta": "Aumentar o nível da conta gov.br",
+        "orientacao_id": 2,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 12.4,
+        "facilidade": 4
+    },
+    {
+        "data": "2026-11-16 16:17:18",
+        "origem": "pergunta",
+        "pergunta": "Tirar novo rg",
+        "orientacao_id": 3,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 39.2,
+        "facilidade": 4
+    },
+    {
+        "data": "2026-11-16 16:17:38",
+        "origem": "pergunta",
+        "pergunta": "Como abrir minha primeira conta no banco",
+        "orientacao_id": 10,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 17.1,
+        "facilidade": 4
+    },
+    {
+        "data": "2026-11-16 16:18:54",
+        "origem": "pergunta",
+        "pergunta": "Perdi o prazo do alistamento militar",
+        "orientacao_id": 6,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 31.7,
+        "facilidade": 3
+    },
+    {
+        "data": "2026-11-16 16:19:22",
+        "origem": "pergunta",
+        "pergunta": "2",
+        "orientacao_id": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 2,
+        "tempo_segundos": 11.3,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 16:19:42",
+        "origem": "pergunta",
+        "pergunta": "Quero aumentar o nível da minha conta gov",
+        "orientacao_id": 2,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 10.4,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 17:18:07",
+        "origem": "pergunta",
+        "pergunta": "quero emitir cin",
+        "orientacao_id": 3,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 15.0,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 17:18:19",
+        "origem": "pergunta",
+        "pergunta": "receita de bolo",
+        "orientacao_id": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 8.4,
+        "facilidade": 5
+    },
+    {
+        "data": "2026-11-16 17:19:16",
+        "origem": "categoria",
+        "pergunta": "Acessar a Carteira de Trabalho Digital (CTPS)",
+        "orientacao_id": 8,
+        "encontrou": true,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 15.5,
+        "facilidade": 5
+    }
+]
