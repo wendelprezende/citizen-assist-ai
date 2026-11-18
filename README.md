@@ -204,4 +204,4 @@ Os arquivos `data/historico.json` e `data/atendimentos.csv` deste repositório s
 
 ## Vídeo técnico
 
-[PREENCHER: link do vídeo no YouTube, não listado]
+https://youtu.be/5R_JAPvqn5Y
